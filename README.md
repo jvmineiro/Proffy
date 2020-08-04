@@ -126,8 +126,8 @@ Check out the [contributing](https://github.com/RafaelGoulartB/Proffy/blob/maste
 
 Released in 2020 :closed_book: License
 
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
-This project is under the [MIT license](https://github.com/RafaelGoulartB/Proffy/master/LICENSE).
+Made with love by [Joao Vitor Mineiro](https://github.com/jvmineiro) 🚀.
+This project is under the [MIT license](https://github.com/jvmineiro).
 
 
 Give a ⭐️ if this project helped you!
